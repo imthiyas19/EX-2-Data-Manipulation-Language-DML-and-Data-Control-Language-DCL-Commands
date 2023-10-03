@@ -156,3 +156,5 @@ insert into manager values(7369,'Dharsan',2500,500,30000,'30-June-81','clerk',10
 
 
 ![image](https://github.com/imthiyas19/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/120353416/ddf466f3-ce3f-42a3-bb55-94e33fb6f416)
+# RESULT:
+To create a manager database and execute DML queries using SQL is executed successfully.
